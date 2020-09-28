@@ -1,5 +1,0 @@
-data:
-  env: eureka-server-attendance-prod
-  user:
-    username: eureka-server-attendance
-    password: 123456
